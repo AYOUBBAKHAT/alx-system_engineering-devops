@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# script that kill  To infinity and beyond copy.
+kill -9 "$(pgrep -f 7-highlander)"
