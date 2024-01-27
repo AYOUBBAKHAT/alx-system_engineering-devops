@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# script that displays the PID, the process name, of pro bash. 
+pgrep -l bash
